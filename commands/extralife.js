@@ -45,8 +45,8 @@ module.exports = {
             if (!args[0] === '') {
                 return msg.reply('You need an Extra Life id in order to use this command');
             }
-            //return msg.channel.send(`Do you want to play some rounds? ${taggedUser.username}`);
+           
         }
-        //msg.channel.send(`This argument is incorrect for this command, try again human: ${args[0]}`);
+        
     },
 };
